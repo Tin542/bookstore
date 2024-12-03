@@ -1,0 +1,6 @@
+[submodule "bookstore-API"]
+	path = bookstore-API
+	url = https://github.com/Tin542/bookstore-API.git
+[submodule "bookstore-FE"]
+	path = bookstore-FE
+	url = https://github.com/Tin542/bookstore-FE.git
