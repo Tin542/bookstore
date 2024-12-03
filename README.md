@@ -23,8 +23,9 @@
   + Cart Management (CRUD)
   + place order
  
-**Admin Page**
-https://bookstore-api-n9jf.onrender.com/auth/login 
+**Admin Page:**
+https://bookstore-api-n9jf.onrender.com/auth/login
+
 Account: admin/123456
   
 **Database:**
