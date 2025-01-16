@@ -24,7 +24,7 @@
   + place order
  
 **Admin Page:**
-https://bookstore-api-n9jf.onrender.com/auth/login
+https://bookstore-api.site/admin
 
 Account: admin/123456
   
